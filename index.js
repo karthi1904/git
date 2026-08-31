@@ -1,0 +1,1 @@
+console.log("Hello everyone! This is a Git workouts session.");
